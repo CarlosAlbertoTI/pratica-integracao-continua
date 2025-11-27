@@ -1,4 +1,25 @@
-# Demo-CI: Aula Prática sobre Servidores de Integração Contínua
+# 🎓 Universidade Federal do Ceará
+### Departamento de Computação
+### Grupo de Rede de Computadores, Engenharia de Software e Sistemas - GREat
+
+---
+
+## 📚 Disciplina
+* **CK0241** - Verificação, Validação e Teste de Software
+* **CKP9012** - Verificação e Validação de Software
+
+---
+
+# 🚀 Demo-CI: Aula Prática sobre Servidores de Integração Contínua
+
+---
+
+### 📧 Contato e Equipe
+
+* **Profa. Valéria Lelli Leitão Dantas**
+    * Email: valerialelli@ufc.br
+* **Monitor: Francisco Jean da Silva de Sousa**
+    * Email: franciscojean@alu.ufc.br
 
 Este repositório descreve um roteiro prático para configuração e uso de um **Servidor de Integração Contínua**. O objetivo é proporcionar ao aluno um primeiro contato real com essa prática de desenvolvimento de software.
 
